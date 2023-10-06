@@ -1,0 +1,10 @@
+name: ParticleSelector
+main: dev.hadimhz.particles.ParticlePlugin
+version: 1.0
+author: Hadimhz
+
+api-version: 1.20
+
+commands:
+  particles:
+  particlestop:
